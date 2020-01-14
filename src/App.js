@@ -8,12 +8,12 @@ const arr = [
     completed: false
   },
   {
-    task: 'Build a React App',
+    task: 'Create Todo List',
     id: Date.now() + 1,
     completed: false
   },
   {
-    task: 'Build a React App',
+    task: 'Finish MVP',
     id: Date.now() + 2,
     completed: false
   }
