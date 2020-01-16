@@ -5,7 +5,7 @@ export default function TodoList(props) {
     return (
         <div>
             <h2>My Tasks</h2>
-            <Todo list={props.list} />
+            <Todo toggle={props.toggle} list={props.list} />
         </div>
     )
 }
